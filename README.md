@@ -5,6 +5,6 @@ DebianPiPortMaker is a semi-automated script allowing for creation of ARM64 Debi
 
 FUTURE IMPROVEMENTS:
 
--Bluetooth support.
--ARMv7 32-bit version for the Pi 2.
--Use of the generic kernel (ARM64 only) and GRUB2.
+*Bluetooth support.
+*ARMv7 32-bit version for the Pi 2.
+*Use of the generic kernel (ARM64 only) and GRUB2.
